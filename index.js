@@ -1,5 +1,6 @@
+🧞‍♀️//Fazer as perguntas de nome e experiência 5 vezes 
+🧞‍♂️//Fazer as perguntas de nome e experiência 5 vezes 
 
-//Fazer as perguntas de nome e experiência 5 vezes 
 for(let vezes = 0; vezes < 5; vezes ++){
     let nomeHeroi = prompt("Informe o nome do herói: ");
     let XpHeroi = prompt("Informe a quantidade de experiência do Herói(XP): ");
