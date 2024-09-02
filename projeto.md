@@ -1,9 +1,9 @@
-**O Que deve ser utilizado**
+**O Que é preciso ser utilizado**
 
-- Variáveis = Feito 
-- Operadores = Feito 
-- Laços de repetição
-- Estruturas de decisões = Feito 
+🧭- Variáveis = Feito 
+🪐- Operadores = Feito 
+♨- Laços de repetição
+🚧- Estruturas de decisões = Feito 
 
 ## Objetivo
 
